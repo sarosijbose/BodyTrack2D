@@ -1,0 +1,1 @@
+python main.py --workers 4 --init_r 100 --k 10 --iter 12

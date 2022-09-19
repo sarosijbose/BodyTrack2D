@@ -1,0 +1,16 @@
+---CONFIGS---
+==========================================
+shape:human
+downsample:True
+ds_rate:10
+render_normals:False
+workers:2
+coords_dir:body_points_output4_it1/
+outfile:./inputs/furthest_normals
+init_r:500
+k:10
+iter:10
+log_file:human_1
+log_dir:./log/human_1/human_1.log
+
+No. of total balls:19685 and pills:19683

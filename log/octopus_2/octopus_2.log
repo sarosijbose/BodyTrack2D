@@ -1,0 +1,15 @@
+---CONFIGS---
+==========================================
+shape:octopus
+downsample:True
+ds_rate:10
+workers:2
+coords_dir:body_points_output4_it1/
+outfile:./inputs/furthest_normals
+init_r:500
+k:10
+iter:10
+log_file:octopus_2
+log_dir:./log/octopus_2/octopus_2.log
+
+No. of total balls:19685 and pills:19683
